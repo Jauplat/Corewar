@@ -7,9 +7,11 @@ VM :
 2 Virtual Arena
 
 
+
 ARCHITECTURE
 
 Each player loaded in the virtual machine becomes a process.
+
 {} what info to store in struct
 
 {} how and where to store a player?
@@ -23,8 +25,8 @@ Each player loaded in the virtual machine becomes a process.
 {} declare memory macro MEM_SIZE
 
 
-1 - PARSING
 
+1 - PARSING
 
 {} parse entire file with read()
 
