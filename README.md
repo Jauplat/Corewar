@@ -10,7 +10,6 @@ VM :
 ARCHITECTURE
 
 Each player loaded in the virtual machine becomes a process.
-
 {} what info to store in struct
 
 {} how and where to store a player?
